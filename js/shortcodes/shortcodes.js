@@ -1,5 +1,5 @@
 /*
-	Name: Impose Shortcodes
+	Name: InfoBlog.Club Shortcodes
 	Version: 1.0
 	Author: pixelwars
 */

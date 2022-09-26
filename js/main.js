@@ -1,5 +1,5 @@
 /*
-	Name: Impose
+	Name: InfoBlog.Club
 	Description: Responsive HTML5 Template
 	Version: 1.0
 	Author: pixelwars
