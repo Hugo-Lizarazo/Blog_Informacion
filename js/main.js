@@ -2,7 +2,7 @@
 	Name: InfoBlog.Club
 	Description: Responsive HTML5 Template
 	Version: 1.0
-	Author: pixelwars
+	Author: InfoBlog.Club
 */
 
 (function($) { "use strict"; 

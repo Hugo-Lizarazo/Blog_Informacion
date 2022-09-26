@@ -1,7 +1,7 @@
 /*
 	Name: InfoBlog.Club Shortcodes
 	Version: 1.0
-	Author: pixelwars
+	Author: InfoBlog.Club
 */
 
 (function($) { "use strict";
